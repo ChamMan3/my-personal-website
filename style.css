@@ -1,3 +1,12 @@
-body {
-    background: blue;
+p {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
 }
+img {
+    margin: auto;
+    display: block;
+    max-width: 30%;
+    max-height: auto;
+
+} 
