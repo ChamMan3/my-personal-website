@@ -15,6 +15,7 @@ img {
   }
   body {
     margin: 0;
+    color: blueviolet;
   }
   .sample-header {
     position: fixed;
