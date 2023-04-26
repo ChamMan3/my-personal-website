@@ -67,7 +67,6 @@ img {
   text-align:center
 }
 .container{
-  
-  height:10px;
-  max-width: fit-content;
+ position:absolute;
+ height: fit-content;
 }
