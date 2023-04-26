@@ -63,9 +63,10 @@ img {
     margin-right: auto;
     padding: 40px;
   }
-
-.lukon {
-  color: purple;
-  margin-left: 10px ;
-
+.links{
+  text-align:center
+}
+.container{
+  
+  height:10px;
 }
