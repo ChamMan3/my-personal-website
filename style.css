@@ -76,3 +76,14 @@ img {
   background: black;
   color: white;
 }
+
+/* .links {
+  display: block;
+  padding: 10px;
+  width: 981px;
+  height: 180px;
+} */
+
+.list{
+  float: left;
+}
