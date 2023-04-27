@@ -26,11 +26,11 @@ li {
   float: left;
 }
 
-li a {
+.links{
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 8px;
   text-decoration: none;
 }
 
