@@ -32,9 +32,17 @@ li {
   text-align: center;
   padding: 8px;
   text-decoration: none;
+  border-radius: 10px;
+  border-width: 10%;
+  border: 20px red;
+
 }
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: #111;
+}
+
+.logo{
+  border-radius: 10px;
 }
